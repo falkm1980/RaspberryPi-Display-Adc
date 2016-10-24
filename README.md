@@ -5,5 +5,7 @@ Sourcecode for Raspberry Pi Testboard that has a Display, ADC, Leds, Buttons
 * ADC: 8channel / 10Bit - MCP 3008 ADC
 * 8LED's
 * 3 Buttons
-
 * all unused pins are accessible via Pin-Header
+
+for a detailed desciption see: http://www.falkensteiner-software.at/display-adc-board-fuer-raspberry-pi/
+
