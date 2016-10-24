@@ -1,4 +1,4 @@
-# RaspberryPi-Display-Adc
+# RaspberryPi-Display-Adc Testboard
 Sourcecode for Raspberry Pi Testboard that has a Display, ADC, Leds, Buttons
 
 * Display: 16x2 LCD with background light and HD44780 Controller
