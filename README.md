@@ -7,5 +7,5 @@ Sourcecode for Raspberry Pi Testboard that has a Display, ADC, Leds, Buttons
 * 3 Buttons
 * all unused pins are accessible via Pin-Header
 
-for a detailed desciption see: http://www.falkensteiner-software.at/display-adc-board-fuer-raspberry-pi/
+for a detailed description see: http://www.falkensteiner-software.at/display-adc-board-fuer-raspberry-pi/
 
